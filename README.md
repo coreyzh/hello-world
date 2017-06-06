@@ -6,4 +6,4 @@
 这是一个分支新添加的内容.
 
 
-再次添加一些内容zzzz.
+update version7.0.1.  Now about user login,we add some new tips like champion select. Let's fighting !! 
